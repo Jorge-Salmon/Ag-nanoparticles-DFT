@@ -19,7 +19,7 @@ Firstly, the original dataset was randomly split into two sets: the validation s
 
 # Result
 
-As shown in the Figure below, the predicted values of Formation energy are in close agreement with the true values.
+As shown in the Figure below, the predicted values of Formation energy are in close agreement with the true values calculated with DFT.
 
 ![Predicted and true values of Formation energy.](pred.png)
 
