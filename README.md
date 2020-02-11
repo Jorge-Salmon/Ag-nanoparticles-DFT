@@ -1,4 +1,4 @@
-# Predicting Ag nanoparticles properties with Machine Learning from DFT calculations
+# Predicting Ag nanoparticles properties with Machine Learning from DFTB calculations
 Keywords: DFT, Machine Learning, Nanoparticles, Materials Science.
 
 Author: Jorge Salmon
@@ -14,7 +14,7 @@ Despite of being a powerful tool, DFT has a series of drawbacks and limitations.
 
 ## The solution
 
-One of the potential solutions to this problem is using Machine Learning methods to estimate values of the properties of many-atoms systems, without having run a DFT calculation. Here, I use Random Forest Regression to predict the values of Formation Energy of 277 silver (Ag) nanoparticles of different sizes, with up to ~3000 atoms.  For this, a training dataset with DFT parameters of 148 Ag nanoparticles was used. The original dataset, comprised of 425 Ag nanoparticles was calculated by Amanda Barnard et al. (Barnard, Amanda; Sun, Baichuan; Motevalli Soumehsaraei, Benyamin; Opletal, George (2017): Silver Nanoparticle Data Set. v3. CSIRO. Data Collection. https://doi.org/10.25919/5d22d20bc543e).
+One of the potential solutions to this problem is using Machine Learning methods to estimate values of the properties of many-atoms systems, without having run a DFT calculation. Here, I use Random Forest Regression to predict the values of Formation Energy of 277 silver (Ag) nanoparticles of different sizes, with up to ~3000 atoms.  For this, a training dataset of 148 Ag nanoparticles calculated using Density Functional Tight Binding was used. The original dataset, comprised of 425 Ag nanoparticles was calculated by Amanda Barnard et al. (Barnard, Amanda; Sun, Baichuan; Motevalli Soumehsaraei, Benyamin; Opletal, George (2017): Silver Nanoparticle Data Set. v3. CSIRO. Data Collection. https://doi.org/10.25919/5d22d20bc543e).
 
 ## Methods
 
