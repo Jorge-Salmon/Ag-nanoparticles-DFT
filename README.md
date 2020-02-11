@@ -1,8 +1,8 @@
 # Predicting Ag nanoparticles properties with Machine Learning from DFT calculations
 Keywords: DFT, Machine Learning, Physics, Nanoparticles, Materials Science.
 
-Jorge Salmon
-jorge.salmon@kcl.ac.uk
+Author: Jorge Salmon
+e-mail: jorge.salmon@kcl.ac.uk
 
 ## Introduction
 
