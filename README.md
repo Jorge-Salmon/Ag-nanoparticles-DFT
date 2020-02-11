@@ -17,7 +17,11 @@ One of the potential solutions to this problem is using Machine Learning methods
 
 Firstly, the original dataset was randomly split into two sets: the validation set, containing the information of 277 Ag nanoparticles, and the training set, having the information of the rest nanoparticles (148 nanoparticles). The samples in the resultant datasets were shuffled as a result of the random split. It was found that the relevant features of the dataset were the number of atoms, average Ag coordination number, average bond length and average surface Ag coordination number. This features are enough to determine the size and shape of a nanoparticle (dataset headers included in the .pdf file). 5-Fold Cross-validation was carried out for the training dataset with two different models: Random Forest Regressor and K Nearest Neighbors Regressor from Scikit-learn (https://scikit-learn.org/stable/index.html). The Random Forest estimator with 10 n_estimators performed the best, scoring an average accuracy of 0.93 +/- 0.15. Finally, the model was trained with the whole training dataset, and used to predict the formation energy of the 425 Ag nanoparticles, giving a Mean Absolute Error of 0.01.
 
-# Results
+# Code and results
+
+The code and results can be found in the Jupiter Notebook.
+
+
 
 
 
