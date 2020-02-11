@@ -2,7 +2,7 @@
 Keywords: DFT, Machine Learning, Physics, Nanoparticles, Materials Science.
 
 Author: Jorge Salmon
-e-mail: jorge.salmon@kcl.ac.uk
+
 
 ## Introduction
 
