@@ -25,7 +25,7 @@ As shown in the Figure below, the predicted values of Formation energy are in cl
 
 # Code
 
-The code and results can be found in the Jupiter Notebook.
+The code and results can be found in the Jupiter Notebook located in this repository.
 
 # Conclusion
 
