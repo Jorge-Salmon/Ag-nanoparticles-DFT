@@ -1,6 +1,9 @@
 # Predicting Ag nanoparticles properties with Machine Learning from DFT calculations
 Keywords: DFT, Machine Learning, Physics, Nanoparticles, Materials Science.
 
+Jorge Salmon
+jorge.salmon@kcl.ac.uk
+
 ## Introduction
 
 Density functional theory (DFT) is a computational quantum mechanical modelling method used in physics, chemistry and materials science to investigate the electronic structure (or nuclear structure) of many-body systems, in particular atoms, molecules, and the condensed phases. Using this theory, the properties of a many-electron system can be determined by using functionals, i.e. functions of another function, which in this case is the spatially dependent electron density. Hence the name density functional theory comes from the use of functionals of the electron density. 
