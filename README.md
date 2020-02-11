@@ -1,4 +1,4 @@
-# Silver-nanoparticles-DFT and Machine Learning
+# Predicting Ag nanoparticles properties with Machine Learning from DFT calculations
 Keywords: DFT, Machine Learning, Physics, Nanoparticles, Materials Science.
 
 ## Introduction
