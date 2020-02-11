@@ -25,7 +25,7 @@ As shown in the Figure below, the predicted values of Formation energy are in cl
 
 # Code
 
-The code and results can be found in the Jupiter Notebook located in this repository.
+The code and results can be found in the Jupiter Notebook located in this repository (Ag_NPs_code), or click here to see it https://github.com/Jorge-Salmon/Ag-nanoparticles-DFT/blob/master/Ag_NPs_code.ipynb
 
 # Conclusion
 
