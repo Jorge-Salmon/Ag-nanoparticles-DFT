@@ -21,7 +21,7 @@ Firstly, the original dataset was randomly split into two sets: the validation s
 
 As shown in the Figure below, the predicted values of Formation energy are in close agreement with the true values.
 
-![Predicted and true values of Formation energy.](Result1.png)
+![Predicted and true values of Formation energy.](pred.png)
 
 # Code
 
