@@ -32,6 +32,6 @@ The code and results can be found in the Jupiter Notebook located in this reposi
 
 ## Conclusions
 
-It was shown that by using Machine learning it was able to predict values of properties related to nanosized materials. Furthermore, the set of predicted values was larger than the size of the training set used, so in order to perform systematic studies a large number of DFTB calculations will not be necessary. This technique is useful to aid DFTB or even other methods like DFT calculate properties of systems with large number of atoms. 
+It was shown that by using Machine learning it was able to predict values of properties related to nanosized materials. Furthermore, the set of predicted values was larger than the size of the training set used, so in order to perform systematic studies a large number of DFTB calculations will not be necessary. Also, there is good agreement between the predicted and the true formation energies of nanoparticles with large number of atoms, which is of paramount interest. This technique is useful to aid DFTB or even other methods like DFT calculate properties of systems with large number of atoms. 
 
 
